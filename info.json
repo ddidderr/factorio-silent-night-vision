@@ -1,9 +1,9 @@
 {
     "name": "silent-night-vision",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "title": "Silent Night Vision",
-    "author": "Dusk Wuff",
-    "factorio_version": "1.1",
+    "author": "duskwuff",
+    "factorio_version": "2.0",
     "dependencies": ["base"],
     "description": "Disables the sound effects played when night vision is enabled or disabled."
 }
